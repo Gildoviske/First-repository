@@ -3,4 +3,4 @@
 
 repositório criado na aula.
 
-Essa linha foi adicionada por aqui.
+Essa linha foi adicionada por aqui remotamente.
